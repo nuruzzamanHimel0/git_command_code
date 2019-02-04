@@ -1,0 +1,27 @@
+file upload on the git:
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/nuruzzamanHimel0/dfdf.git
+git push origin master
+
+another command:
+git status
+git log
+
+download git file:
+git clone download_link
+
+again update and upload file command:
+git add .
+git commit -m "message"
+git pull
+git push
+
+download from brance:
+git clone download_link -b brance_name
+then upload again:
+git add .
+git commit -m "message"
+git pull
+git push
