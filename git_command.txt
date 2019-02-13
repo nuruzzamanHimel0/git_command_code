@@ -15,8 +15,8 @@ git clone download_link
 again update and upload file command:
 git add .
 git commit -m "message"
-git pull
-git push
+git pull or git pull origin master
+git push or git push -u origin master
 
 download from brance:
 git clone download_link -b brance_name
